@@ -11,4 +11,8 @@ Practicing dsa from leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->

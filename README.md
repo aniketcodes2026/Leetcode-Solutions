@@ -8,6 +8,7 @@ Practicing dsa from leetcode
 | ------- | ------- |
 | [0001-two-sum](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,4 +45,8 @@ Practicing dsa from leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 <!---LeetCode Topics End-->

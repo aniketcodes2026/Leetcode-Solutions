@@ -16,6 +16,7 @@ Practicing dsa from leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -30,6 +31,7 @@ Practicing dsa from leetcode
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
@@ -105,4 +107,8 @@ Practicing dsa from leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->

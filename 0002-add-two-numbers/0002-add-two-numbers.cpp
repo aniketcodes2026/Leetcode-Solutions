@@ -36,7 +36,6 @@ public:
         if (carry == 1) {
             current->next = new ListNode(1);
         }
-
         return answer->next;
     }
 };

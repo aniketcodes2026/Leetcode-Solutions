@@ -15,6 +15,7 @@ Practicing dsa from leetcode
 | [0088-merge-sorted-array](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +114,7 @@ Practicing dsa from leetcode
 | [0070-climbing-stairs](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |

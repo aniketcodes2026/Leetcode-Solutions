@@ -26,6 +26,7 @@ Practicing dsa from leetcode
 | [0013-roman-to-integer](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0202-happy-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +37,7 @@ Practicing dsa from leetcode
 | [0067-add-binary](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0202-happy-number](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -83,6 +85,7 @@ Practicing dsa from leetcode
 | [0088-merge-sorted-array](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0202-happy-number](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0202-happy-number/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,4 +180,8 @@ Practicing dsa from leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->

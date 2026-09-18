@@ -41,6 +41,7 @@ Practicing dsa from leetcode
 | [0070-climbing-stairs](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
+| [1344-angle-between-hands-of-a-clock](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [2119-a-number-after-a-double-reversal](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## String

@@ -57,6 +57,7 @@ Practicing dsa from leetcode
 | [0058-length-of-last-word](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +125,7 @@ Practicing dsa from leetcode
 | ------- | ------- |
 | [0067-add-binary](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |

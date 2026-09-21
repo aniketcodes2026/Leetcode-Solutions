@@ -211,4 +211,8 @@ Practicing dsa from leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1291-sequential-digits/) | Medium |
 <!---LeetCode Topics End-->

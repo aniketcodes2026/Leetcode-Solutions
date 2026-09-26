@@ -13,6 +13,7 @@ Practicing dsa from leetcode
 | [0027-remove-element](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0051-n-queens](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0066-plus-one](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
@@ -252,9 +253,14 @@ Practicing dsa from leetcode
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0051-n-queens](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->

@@ -55,6 +55,7 @@ Practicing dsa from leetcode
 | [0070-climbing-stairs](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
+| [0836-rectangle-overlap](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [2119-a-number-after-a-double-reversal](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
@@ -240,6 +241,7 @@ Practicing dsa from leetcode
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |

@@ -24,6 +24,7 @@ Practicing dsa from leetcode
 | [0217-contains-duplicate](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -42,6 +43,7 @@ Practicing dsa from leetcode
 | [1096-brace-expansion-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +99,7 @@ Practicing dsa from leetcode
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -247,6 +250,7 @@ Practicing dsa from leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1291-sequential-digits/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |

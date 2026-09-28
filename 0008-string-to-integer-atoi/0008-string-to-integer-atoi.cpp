@@ -9,7 +9,6 @@ public:
             if (s[i] == '-') sign = -1;
             i++;
         }
-
         long long num = 0;
 
         while (i < n && isdigit(s[i])) {

@@ -106,6 +106,7 @@ Practicing dsa from leetcode
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0232-implement-queue-using-stacks](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -275,4 +276,12 @@ Practicing dsa from leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0051-n-queens/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->

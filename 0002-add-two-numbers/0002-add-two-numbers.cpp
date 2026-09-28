@@ -1,7 +1,7 @@
 class Solution {
 public:
    
-    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2){
 
         ListNode* answer = new ListNode(0);
         ListNode* current = answer;

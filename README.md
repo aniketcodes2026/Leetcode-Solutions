@@ -84,6 +84,7 @@ Practicing dsa from leetcode
 | [0014-longest-common-prefix](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0067-add-binary/) | Easy |
@@ -124,6 +125,7 @@ Practicing dsa from leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Two Pointers
@@ -185,6 +187,7 @@ Practicing dsa from leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
@@ -284,6 +287,7 @@ Practicing dsa from leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0051-n-queens](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Monotonic Stack

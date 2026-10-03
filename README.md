@@ -16,6 +16,7 @@ Practicing dsa from leetcode
 | [0027-remove-element](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0051-n-queens](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0066-plus-one](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
@@ -290,6 +291,7 @@ Practicing dsa from leetcode
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Monotonic Stack

@@ -28,6 +28,7 @@ Practicing dsa from leetcode
 | [0136-single-number](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1995-count-special-quadruplets](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1995-count-special-quadruplets/) | Easy |
@@ -49,6 +50,7 @@ Practicing dsa from leetcode
 | [0202-happy-number](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -211,6 +213,7 @@ Practicing dsa from leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |

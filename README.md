@@ -19,6 +19,7 @@ Practicing dsa from leetcode
 | [0040-combination-sum-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0046-permutations/) | Medium |
+| [0048-rotate-image](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0066-plus-one](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -65,6 +66,7 @@ Practicing dsa from leetcode
 | [0009-palindrome-number](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0048-rotate-image](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0069-sqrtx/) | Easy |
@@ -279,6 +281,7 @@ Practicing dsa from leetcode
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |

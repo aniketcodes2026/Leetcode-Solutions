@@ -29,6 +29,7 @@ Practicing dsa from leetcode
 | [0118-pascals-triangle](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0136-single-number](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -222,6 +223,7 @@ Practicing dsa from leetcode
 | [0118-pascals-triangle](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0338-counting-bits](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0338-counting-bits/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Memoization
@@ -315,6 +317,7 @@ Practicing dsa from leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Prefix Sum

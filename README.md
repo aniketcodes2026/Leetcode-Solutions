@@ -198,6 +198,7 @@ Practicing dsa from leetcode
 | [0136-single-number](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
+| [0338-counting-bits](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0338-counting-bits/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,6 +220,7 @@ Practicing dsa from leetcode
 | [0118-pascals-triangle](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0338-counting-bits](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0338-counting-bits/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |

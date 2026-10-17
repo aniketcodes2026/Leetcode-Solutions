@@ -82,6 +82,7 @@ Practicing dsa from leetcode
 | [0067-add-binary](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0089-gray-code](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0089-gray-code/) | Medium |
 | [0202-happy-number](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0836-rectangle-overlap](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
@@ -202,6 +203,7 @@ Practicing dsa from leetcode
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0067-add-binary/) | Easy |
+| [0089-gray-code](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0089-gray-code/) | Medium |
 | [0136-single-number](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
@@ -339,6 +341,7 @@ Practicing dsa from leetcode
 | [0046-permutations](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0077-combinations](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0077-combinations/) | Medium |
+| [0089-gray-code](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0089-gray-code/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |

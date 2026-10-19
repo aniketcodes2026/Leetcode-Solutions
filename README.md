@@ -82,6 +82,7 @@ Practicing dsa from leetcode
 | [0013-roman-to-integer](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0048-rotate-image](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0062-unique-paths](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0069-sqrtx/) | Easy |
@@ -232,6 +233,7 @@ Practicing dsa from leetcode
 | [0005-longest-palindromic-substring](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0062-unique-paths](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -391,4 +393,8 @@ Practicing dsa from leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0075-sort-colors/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->

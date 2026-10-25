@@ -285,10 +285,12 @@ Practicing dsa from leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0112-path-sum/) | Easy |
+| [0129-sum-root-to-leaf-numbers](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0112-path-sum/) | Easy |
+| [0129-sum-root-to-leaf-numbers](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -298,6 +300,7 @@ Practicing dsa from leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0112-path-sum/) | Easy |
+| [0129-sum-root-to-leaf-numbers](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |

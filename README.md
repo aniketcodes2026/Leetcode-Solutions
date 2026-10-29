@@ -99,6 +99,7 @@ Practicing dsa from leetcode
 | [0258-add-digits](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0264-ugly-number-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0279-perfect-squares/) | Medium |
+| [0357-count-numbers-with-unique-digits](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0836-rectangle-overlap](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
@@ -259,6 +260,7 @@ Practicing dsa from leetcode
 | [0264-ugly-number-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0338-counting-bits](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0338-counting-bits/) | Easy |
+| [0357-count-numbers-with-unique-digits](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -380,6 +382,7 @@ Practicing dsa from leetcode
 | [0077-combinations](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0077-combinations/) | Medium |
 | [0089-gray-code](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0357-count-numbers-with-unique-digits](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |

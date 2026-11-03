@@ -56,6 +56,7 @@ Practicing dsa from leetcode
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -112,6 +113,7 @@ Practicing dsa from leetcode
 | [3524-find-x-value-of-array-i](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |

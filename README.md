@@ -42,6 +42,7 @@ Practicing dsa from leetcode
 | [0219-contains-duplicate-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0228-summary-ranges/) | Easy |
 | [0260-single-number-iii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0260-single-number-iii/) | Medium |
+| [0268-missing-number](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -75,6 +76,7 @@ Practicing dsa from leetcode
 | [0217-contains-duplicate](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0264-ugly-number-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
+| [0268-missing-number](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -101,6 +103,7 @@ Practicing dsa from leetcode
 | [0202-happy-number](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0264-ugly-number-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
+| [0268-missing-number](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0279-perfect-squares](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -224,6 +227,7 @@ Practicing dsa from leetcode
 | [0004-median-of-two-sorted-arrays](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0069-sqrtx/) | Easy |
+| [0268-missing-number](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Bit Manipulation
@@ -237,6 +241,7 @@ Practicing dsa from leetcode
 | [0190-reverse-bits](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0260-single-number-iii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0260-single-number-iii/) | Medium |
+| [0268-missing-number](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0338-counting-bits/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Simulation
@@ -295,6 +300,7 @@ Practicing dsa from leetcode
 | [0088-merge-sorted-array](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |

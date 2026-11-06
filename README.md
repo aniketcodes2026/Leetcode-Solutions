@@ -107,6 +107,7 @@ Practicing dsa from leetcode
 | [0268-missing-number](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0279-perfect-squares](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
+| [0412-fizz-buzz](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0836-rectangle-overlap](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -138,6 +139,7 @@ Practicing dsa from leetcode
 | [0067-add-binary](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0412-fizz-buzz](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0856-score-of-parentheses](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -253,6 +255,7 @@ Practicing dsa from leetcode
 | [0059-spiral-matrix-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0067-add-binary](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
+| [0412-fizz-buzz](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |

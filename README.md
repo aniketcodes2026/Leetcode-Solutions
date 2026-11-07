@@ -38,6 +38,7 @@ Practicing dsa from leetcode
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0136-single-number](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0228-summary-ranges/) | Easy |
@@ -305,6 +306,7 @@ Practicing dsa from leetcode
 | [0075-sort-colors](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -340,6 +342,7 @@ Practicing dsa from leetcode
 | [0169-majority-element](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -452,6 +455,7 @@ Practicing dsa from leetcode
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0264-ugly-number-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
@@ -461,4 +465,8 @@ Practicing dsa from leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0279-perfect-squares/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->

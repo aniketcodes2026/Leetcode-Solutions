@@ -45,6 +45,7 @@ Practicing dsa from leetcode
 | [0260-single-number-iii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -324,12 +325,14 @@ Practicing dsa from leetcode
 | ------- | ------- |
 | [0112-path-sum](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0279-perfect-squares](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0279-perfect-squares/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1267-count-servers-that-communicate](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -347,6 +350,7 @@ Practicing dsa from leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -371,6 +375,7 @@ Practicing dsa from leetcode
 | [0059-spiral-matrix-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Geometry
@@ -469,4 +474,8 @@ Practicing dsa from leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 <!---LeetCode Topics End-->

@@ -60,6 +60,7 @@ Practicing dsa from leetcode
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Hash Table
@@ -285,6 +286,7 @@ Practicing dsa from leetcode
 | [0357-count-numbers-with-unique-digits](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |

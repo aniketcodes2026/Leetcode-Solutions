@@ -45,6 +45,7 @@ Practicing dsa from leetcode
 | [0260-single-number-iii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0496-next-greater-element-i](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [1267-count-servers-that-communicate](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -82,6 +83,7 @@ Practicing dsa from leetcode
 | [0219-contains-duplicate-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0264-ugly-number-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0496-next-greater-element-i](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -180,6 +182,7 @@ Practicing dsa from leetcode
 | [0020-valid-parentheses](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0232-implement-queue-using-stacks](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0496-next-greater-element-i](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0856-score-of-parentheses](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -426,6 +429,7 @@ Practicing dsa from leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0496-next-greater-element-i](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |

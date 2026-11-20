@@ -55,6 +55,7 @@ Practicing dsa from leetcode
 | [2567-minimum-score-by-changing-two-elements](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -298,6 +299,7 @@ Practicing dsa from leetcode
 | [0338-counting-bits](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0338-counting-bits/) | Easy |
 | [0357-count-numbers-with-unique-digits](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
@@ -334,6 +336,7 @@ Practicing dsa from leetcode
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Tree
 | Problem Name | Difficulty |

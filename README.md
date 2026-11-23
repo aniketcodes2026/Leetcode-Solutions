@@ -47,6 +47,7 @@ Practicing dsa from leetcode
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [1267-count-servers-that-communicate](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -120,6 +121,7 @@ Practicing dsa from leetcode
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0836-rectangle-overlap](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [2119-a-number-after-a-double-reversal](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2409-count-days-spent-together](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
@@ -425,6 +427,7 @@ Practicing dsa from leetcode
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Backtracking
@@ -455,6 +458,7 @@ Practicing dsa from leetcode
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0933-number-of-recent-calls/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -464,6 +468,7 @@ Practicing dsa from leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0933-number-of-recent-calls/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -42,6 +42,7 @@ Practicing dsa from leetcode
 | [0217-contains-duplicate](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0228-summary-ranges/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0260-single-number-iii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -432,6 +433,7 @@ Practicing dsa from leetcode
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |

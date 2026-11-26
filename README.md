@@ -127,6 +127,7 @@ Practicing dsa from leetcode
 | [1401-circle-and-rectangle-overlapping](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [2119-a-number-after-a-double-reversal](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2409-count-days-spent-together](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
+| [3360-stone-removal-game](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -281,6 +282,7 @@ Practicing dsa from leetcode
 | [0258-add-digits](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [3360-stone-removal-game](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/aniketcodes2026/Leetcode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |
